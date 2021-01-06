@@ -95,6 +95,8 @@ This course is highly recommended!
 <br/><br/>
 
 ## Day 5 - 2020-12-15
+:bulb: I surfed the udemy website for some courses and guess what, they actually had discounts for alteryx courses. So I decided to deepen my knowledge in that tool.
+<br/><br/>
 ## Day 4 - 2020-12-14
 ## Day 3 - 2020-12-13
 ## Day 2 - 2020-12-12
