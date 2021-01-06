@@ -86,7 +86,10 @@ But I have to say, this course is not worth the money. If you get it discounted,
 ![LT Scholarship Badge](/images/UC-b60b58ac-eab5-4219-baa6-b26a2606b294.jpg)
 <br/><br/>
 
-## Day 7 - 2020-12-17
+## Day 7 - 2020-12-17 for the
+:bulb: I started another alteryx-course with some real world examples, but I was disappointed.
+<br/><br/>
+
 ## Day 6 - 2020-12-16
 :bulb: I passed my first alteryx course on udemy today.
 This course is highly recommended!
@@ -101,3 +104,5 @@ This course is highly recommended!
 ## Day 3 - 2020-12-13
 ## Day 2 - 2020-12-12
 ## Day 1 - 2020-12-11
+:bulb: I did the pledge and joined the slack community for the 60 days of udacity challenge. I found a lot of learning material which I sorted for further reading.
+<br/><br/>
