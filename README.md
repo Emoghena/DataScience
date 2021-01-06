@@ -58,4 +58,13 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 
 :bulb: Today I did a case study in excel on portfolio management with mean value analysis, scatter analysis, correlation analysis, rank correlation, box plot, data classification and multi-regression analysis. Quite interesting to see a "real world scenario". 
 <br/><br/>
+
+## Day 19 - 2020-12-29
+:bulb: I started a course on descriptive statistics with Excel. In the next days, I will transfer this knowledge to python.
+<br/><br/>
+
+## Day 18 - 2020-12-28
+:bulb: I signed up to medium and read a lot of stuff. Did some experiments on dummy variables in python for a better understanding of multiple linear regression and played around with seaborn for visualization.
+<br/><br/>
+
 ## Day 1 - 2020-12-11
