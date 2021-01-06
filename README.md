@@ -79,6 +79,7 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 ## Day 11 - 2020-12-21
 ## Day 10 - 2020-12-20
 ## Day 9 - 2020-12-19
+
 ## Day 8 - 2020-12-18
 :bulb: I wanted to learn more about alteryx, so I did another course on udemy and passed today.
 But I have to say, this course is not worth the money. If you get it discounted, it is ok.
@@ -100,8 +101,9 @@ This course is highly recommended!
 ## Day 5 - 2020-12-15
 :bulb: I surfed the udemy website for some courses and guess what, they actually had discounts for alteryx courses. So I decided to deepen my knowledge in that tool.
 <br/><br/>
+
 ## Day 4 - 2020-12-14
-:bulb: I am still reading the "Head First" book.<br/>
+:bulb: I am still reading the "Head First" book.<br/><br/>
 :bulb: I searched the web for some python installation and came across anaconda which I installed on my laptop.
 <br/><br/>
 
