@@ -104,7 +104,7 @@ This course is highly recommended!
 
 ## Day 4 - 2020-12-14
 :bulb: I am still reading the "Head First" book.<br/><br/>
-:bulb: I searched the web for some python installation and came across anaconda which I installed on my laptop.
+:bulb: I searched the web for some python installation and came across anaconda which I installed on my laptop. I fell in love with Jupyter Noteboks and decided to learn more about it.
 <br/><br/>
 
 ## Day 3 - 2020-12-13
