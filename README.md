@@ -101,8 +101,18 @@ This course is highly recommended!
 :bulb: I surfed the udemy website for some courses and guess what, they actually had discounts for alteryx courses. So I decided to deepen my knowledge in that tool.
 <br/><br/>
 ## Day 4 - 2020-12-14
+:bulb: I am still reading the "Head First" book.<br/>
+:bulb: I searched the web for some python installation and came across anaconda which I installed on my laptop.
+<br/><br/>
+
 ## Day 3 - 2020-12-13
+:bulb: Today I read my "Head First Data Analysis" book, which I started some time ago. I now have a much better unterstanding what's going on on the Data Track.
+<br/><br/>
+
 ## Day 2 - 2020-12-12
+:bulb: Since I did all the tasks and project with alteryx before I decided to do some research on O'reilly website and ordered two books from amazon concerning data science. I am looking forward to get and read them.
+<br/><br/>
+
 ## Day 1 - 2020-12-11
-:bulb: I did the pledge and joined the slack community for the 60 days of udacity challenge. I found a lot of learning material which I sorted for further reading.
+:bulb: I did the pledge and joined the slack community for the 60 days of udacity challenge. I found a lot of learning material which I sorted and saved for further reading.
 <br/><br/>
