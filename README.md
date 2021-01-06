@@ -71,5 +71,24 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 :bulb: To bad, I realized that my slack account will delete older messages. lso found out that I cannot buy a slack account for me alone if other persons are in the channels to. So Slack wanted to charge me for a month for $17.000. I will have to reconstruct my progress from my memory
 <br/><br/>
 
+## Day 16 - 2020-12-26
+## Day 15 - 2020-12-25
+## Day 14 - 2020-12-24
+## Day 13 - 2020-12-23
+## Day 12 - 2020-12-22
+## Day 11 - 2020-12-21
+## Day 10 - 2020-12-20
+## Day 9 - 2020-12-19
+## Day 8 - 2020-12-18
+:bulb: I wanted to learn more about alteryx, so I did a course on udemy and passed today.
 
+![LT Scholarship Badge](/images/UC-b60b58ac-eab5-4219-baa6-b26a2606b294.jpg)
+<br/><br/>
+
+## Day 7 - 2020-12-17
+## Day 6 - 2020-12-16
+## Day 5 - 2020-12-15
+## Day 4 - 2020-12-14
+## Day 3 - 2020-12-13
+## Day 2 - 2020-12-12
 ## Day 1 - 2020-12-11
