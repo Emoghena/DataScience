@@ -67,4 +67,9 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 :bulb: I signed up to medium and read a lot of stuff. Did some experiments on dummy variables in python for a better understanding of multiple linear regression and played around with seaborn for visualization.
 <br/><br/>
 
+## Day 17 - 2020-12-27
+:bulb: To bad, I realized that my slack account will delete older messages. lso found out that I cannot buy a slack account for me alone if other persons are in the channels to. So Slack wanted to charge me for a month for $17.000. I will have to reconstruct my progress from my memory
+<br/><br/>
+
+
 ## Day 1 - 2020-12-11
