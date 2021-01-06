@@ -80,13 +80,20 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 ## Day 10 - 2020-12-20
 ## Day 9 - 2020-12-19
 ## Day 8 - 2020-12-18
-:bulb: I wanted to learn more about alteryx, so I did a course on udemy and passed today.
+:bulb: I wanted to learn more about alteryx, so I did another course on udemy and passed today.
+But I have to say, this course is not worth the money. If you get it discounted, it is ok.
 
 ![LT Scholarship Badge](/images/UC-b60b58ac-eab5-4219-baa6-b26a2606b294.jpg)
 <br/><br/>
 
 ## Day 7 - 2020-12-17
 ## Day 6 - 2020-12-16
+:bulb: I passed my first alteryx course on udemy today.
+This course is highly recommended!
+
+![alteryx bootcamp](/images/udemy-alteryx-bootcamp.jpg)
+<br/><br/>
+
 ## Day 5 - 2020-12-15
 ## Day 4 - 2020-12-14
 ## Day 3 - 2020-12-13
