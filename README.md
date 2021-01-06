@@ -5,3 +5,10 @@
 What can I say: When udacity asked us to take the pledge to study for 30 minutes every day, I was already through with the course. So I decided to do the course again and coded the examples and projects with Excel first, then with Python.
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
+
+## Day 27 - 2021-01-06
+
+:bulb: I put the Diamond Project done with Python, statsmodel and sklearn in my github which you can find here:
+https://github.com/jegali/DataScience/blob/main/Lesson-4/Lesson-4.ipynb
+
+## Day 1 - 2020-12-11
