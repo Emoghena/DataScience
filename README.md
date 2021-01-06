@@ -8,7 +8,8 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ## Day 27 - 2021-01-06
 
-:bulb: I put the Diamond Project done with Python, statsmodel and sklearn in my github which you can find here:
-https://github.com/jegali/DataScience/blob/main/Lesson-4/Lesson-4.ipynb
+:bulb: I put the Diamond Project done with Python, statsmodel and sklearn in my github which you can find here:<br/>
+&nbsp; &nbsp; &nbsp; https://github.com/jegali/DataScience/blob/main/Lesson-4/Lesson-4.ipynb<br/><br/>
+:bulb: Finally I found the time to install KNIME, and I did not regret it so far. Its use is as simple as alteryx, not so stylish but can do the same and is free. Attached you see a screenshot of the diamond project. It gives me the same prediction like my python code and has the same deviation of 0,09% to alteryx. Must be alteryx's algorithm..
 
 ## Day 1 - 2020-12-11
