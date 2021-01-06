@@ -23,4 +23,12 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 
 :bulb: D26: I did the Diamond practice project in Python with statsmodel and think I'm close to the recommended solution. Instead of $8,230,695.69 I got $8,223,038.24. Pretty close, that's 99.91% with a deviation of 0.09%. I will check for an possible error tomorrow and try to get closer.
 
+## Day 25 - 2021-01-04
+
+:bulb: Today I learned Bayes theorem and Laplace probability theory. Besides that, I did the example from Lesson 3-22 in python with statsmodel with exactly the same result as before in alteryx. I will post the Python sourcecode tomorrow in my github. 
+
+## Day 24 - 2021-01-03
+
+:bulb: This was a day without coding. I read in my "Head First Statistics" book by O'reilly and learned about probabilities.
+
 ## Day 1 - 2020-12-11
