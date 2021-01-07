@@ -68,13 +68,21 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 <br/><br/>
 
 ## Day 17 - 2020-12-27
-:bulb: To bad, I realized that my slack account will delete older messages. lso found out that I cannot buy a slack account for me alone if other persons are in the channels to. So Slack wanted to charge me for a month for $17.000. I will have to reconstruct my progress from my memory
+:bulb: To bad, I realized that my slack account will delete older messages. I also found out that I cannot buy a slack account for me alone if other persons are in the channels to. So Slack wanted to charge me for a month for $17.000. I will have to reconstruct the days from Dec-11 to Dec-26 and my progress from my memory.
 <br/><br/>
 
 ## Day 16 - 2020-12-26
+:bulb: Today, I did the Udacity Lesson 3 Ticket example. I made some progress in using nice Python libraries which made my life more convenient. Have a look at the code here:<br/>
+https://github.com/jegali/DataScience/blob/main/lesson-3-9-ticket-sample.ipynb
+<br/><br/>
+
 ## Day 15 - 2020-12-25
+:bulb: Ho ho ho! I tried to figure out some more of the math behind regression and learned about the sklearn and statsmodel package. So I fiddled around with some API calls and really like statsmodel now! <br/><br/>
+:bulb: Making progress in the "Head First Statistics" book.<br/><br/>
+<br/><br/>
+
 ## Day 14 - 2020-12-24
-:bulb: It's beginning to look a lot like christmas! I extended the linear regression tutorial by a second part and did the math for correlation coefficient and coefficient of determination on my own. have a look at the resukts here:<br/>
+:bulb: It's beginning to look a lot like christmas! I extended the linear regression tutorial by a second part and did the math for correlation coefficient and coefficient of determination on my own. I learned how to read files instead of putting the calculation values in the Python script. Have a look at the results here:<br/>
 https://github.com/jegali/DataScience/blob/main/linear_regression_2.ipynb
 <br/><br/>
 
@@ -82,7 +90,9 @@ https://github.com/jegali/DataScience/blob/main/linear_regression_2.ipynb
 :bulb: I tried some basic statistics in Python like word frequency counting and visualizing the results in a bar plot.<br/>
 https://github.com/jegali/DataScience/blob/main/word_frequency.ipynb<br/><br/>
 :bulb: I transferred the math used for linear regression in Python and did a first example of linear regression by hand. I wrote a short tutorial you can find here:<br>
-https://github.com/jegali/DataScience/blob/main/linear_regression.ipynb
+https://github.com/jegali/DataScience/blob/main/linear_regression.ipynb<br/><br/>
+:bulb: I finished reading the "Head First Data Analysis" book.<br/><br/>
+:bulb: I started the "Head First Statustuics" book.
 <br/><br/>
 
 ## Day 12 - 2020-12-22
