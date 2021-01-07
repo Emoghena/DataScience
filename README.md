@@ -75,8 +75,58 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 ## Day 15 - 2020-12-25
 ## Day 14 - 2020-12-24
 ## Day 13 - 2020-12-23
+erste python beispiele
+git?
 ## Day 12 - 2020-12-22
 ## Day 11 - 2020-12-21
+
+:bulb: I have no alteryx license for my work laptop and will definetely not install software that has not been approved by our CIO. I found out that Python is allowed, so that was another important decision for my to switch from alteryx to python. I installed miniconda, since anaconda needs a paid license, which I do not have. I did some research on the packets installed with anaconda and decided to do my own "data sciene package". Here is what I did. First I downloaded miniconda and then I did some install on a consoole window
+
+```bash
+
+# download miniconda from : https://docs.conda.io/en/latest/miniconda.html
+# After installation (you do not need any administrative right for that)
+# open up a console window and type these commands
+# to download and install the desired packages.
+# Installation is interactive, so sometimes you have to type in "yes" or "no" 
+
+conda install -c conda-forge scipy
+conda install -c conda-forge numpy
+conda install -c conda-forge pandas
+conda install -c conda-forge matplotlib
+conda install -c conda-forge bokeh
+conda install -c conda-forge plotly
+conda install -c conda-forge pillow
+conda install -c conda-forge statsmodels
+conda install -c conda-forge bkcharts
+conda install -c conda-forge dbf
+conda install -c conda-forge libcurl
+conda install -c conda-forge orange3
+conda install -c conda-forge qt
+conda install -c conda-forge pypi                                                                     
+conda install -c conda-forge pyviz                                                                    
+conda install -c conda-forge seaborn
+conda install -c conda-forge spyder                                                                 
+conda install -c conda-forge sympy
+conda install -c conda-forge miktex
+conda install -c conda-forge vispy
+conda install -c conda-forge altair vega_datasets
+conda install -c conda-forge panel
+conda install -c conda-forge dash
+conda install -c conda-forge scikit-learn
+conda install -c conda-forge scrapy
+conda install -c conda-forge tensorflow
+conda install -c conda-forge keras
+conda install -c conda-forge pytorch
+conda install -c conda-forge theano
+conda install -c conda-forge nltk
+conda install -c conda-forge xlsxwriter
+conda install -c conda-forge xlutils
+conda install -c conda-forge xlwings
+conda install -c conda-forge jupyterlab
+
+```
+
 ## Day 10 - 2020-12-20
 ## Day 9 - 2020-12-19
 
@@ -87,7 +137,7 @@ But I have to say, this course is not worth the money. If you get it discounted,
 ![LT Scholarship Badge](/images/UC-b60b58ac-eab5-4219-baa6-b26a2606b294.jpg)
 <br/><br/>
 
-## Day 7 - 2020-12-17 for the
+## Day 7 - 2020-12-17
 :bulb: I started another alteryx-course with some real world examples, but I was disappointed.
 <br/><br/>
 
