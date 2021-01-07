@@ -80,7 +80,7 @@ git?
 ## Day 12 - 2020-12-22
 ## Day 11 - 2020-12-21
 
-:bulb: I have no alteryx license for my work laptop and will definetely not install software that has not been approved by our CIO. I found out that Python is allowed, so that was another important decision for my to switch from alteryx to python. I installed miniconda, since anaconda needs a paid license, which I do not have. I did some research on the packets installed with anaconda and decided to do my own "data sciene package". Here is what I did. First I downloaded miniconda and then I did some install on a consoole window
+:bulb: I have no alteryx license for my work laptop and will definetely not install software that has not been approved by our CIO. I found out that Python is allowed, so that was another important decision for my to switch from alteryx to python. I installed miniconda, since anaconda needs a paid license, which I do not have. I did some research on the packets installed with anaconda and decided to do my own "data sciene package". Here is what I did. First I downloaded miniconda and then I did some install on a console window:
 
 ```bash
 
