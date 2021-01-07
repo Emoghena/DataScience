@@ -128,7 +128,12 @@ conda install -c conda-forge jupyterlab
 ```
 
 ## Day 10 - 2020-12-20
+:bulb: I understood the theory behind linear regression. I still do not know why it is called "machine learning". It simply calculates a regression formula which I can insert values in. Has nothing to do with "intelligent" or "learning", I think.
+<br/><br/>
+
 ## Day 9 - 2020-12-19
+:bulb: I started with a data science course on udemy but found out I need some more basics on statistics. I decided to learn about the math behind linear regression and did the calculation by hand in Excel.
+<br/><br/>
 
 ## Day 8 - 2020-12-18
 :bulb: I wanted to learn more about alteryx, so I did another course on udemy and passed today.
