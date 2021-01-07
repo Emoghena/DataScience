@@ -6,47 +6,42 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
-## Day 27 - 2021-01-06
+## Day 28 - 2021-01-07
+:bulb: I was inspired by the work of a fellow and decided to restructure my git similarly. I added a diary but had a problem: I forgot that slack does not let us access older posts, so I will have to do some diary entries from my memory. I hope it fits with the older slack entries. Shit happens. Yesterday I started the diary, now it is up to date.
+<br/><br/>
 
+## Day 27 - 2021-01-06
 :bulb: I did the project again with the same result. To rule out errors, I did the project again with sklearn and got the same result.
 I put the Diamond Project done with Python, statsmodel and sklearn in my github which you can find here:<br/>
 https://github.com/jegali/DataScience/blob/main/Lesson-4/Lesson-4.ipynb<br/><br/>
-
 :bulb: Finally I found the time to install KNIME, and I did not regret it so far. Its use is as simple as alteryx, not so stylish but can do the same and is free. Attached you see a screenshot of the diamond project. It gives me the same prediction like my python code and has the same deviation of 0,09% to alteryx. So I believe, alteryx uses a different algorithm which may cause the deviation.
 
 ![LT KNIME](/images/knime-diamond.png)
 <br/><br/>
 
 ## Day 26 - 2021-01-05
-
 :bulb: As promised, I coded the example from lesson 3-22 "Building your First Model in Alteryx" in Python and statsmodel. If you are interested, have a look at the source code at:<br/>
 https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br/><br/>
-
 :bulb: D26: I did the Diamond practice project in Python with statsmodel and think I'm close to the recommended solution. Instead of $8,230,695.69 I got $8,223,038.24. Pretty close, that's 99.91% with a deviation of 0.09%. I will check for an possible error tomorrow and try to get closer.
 <br/><br/>
 
 ## Day 25 - 2021-01-04
-
 :bulb: Today I learned Bayes theorem and Laplace probability theory. Besides that, I did the example from Lesson 3-22 in python with statsmodel with exactly the same result as before in alteryx. I will post the Python sourcecode tomorrow in my github. 
 <br/><br/>
 
 ## Day 24 - 2021-01-03
-
 :bulb: This was a day without coding. I read in my "Head First Statistics" book by O'reilly and learned about probabilities.
 <br/><br/>
 
 ## Day 23 - 2021-01-02
-
 :bulb: Today I learned the theorie behind boxplots and quartils. Good to know, you can use both to find outliers and make an educated guess about standard devation and variance.
 <br/><br/>
 
 ## Day 22 - 2021-01-01
-
 :bulb: Happy new year! I found out that there is a relationship between nominal, ordinal and metric data on the one hand and mode, median and arithmetic mean on the other. I was very fascinated by the ability to convert nominal data into ordinal data. Now I understand better the connection between dummy variables on the one hand and nominal data on the other. This will help me a lot in implementing the linear regression examples in python.
 <br/><br/>
 
 ## Day 21 - 2020-12-31
-
 :bulb: Today, I try something totally different: I have some spare raspberry Pis and connected them to a cluster. Now I try to parallelize the regression examples in python.<br/><br/>
 :bulb: I finished a bootcamp on statisics and data science on udemy.
 
@@ -55,7 +50,6 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 <br/><br/>
 
 ## Day 20 - 2020-12-30
-
 :bulb: Today I did a case study in excel on portfolio management with mean value analysis, scatter analysis, correlation analysis, rank correlation, box plot, data classification and multi-regression analysis. Quite interesting to see a "real world scenario". 
 <br/><br/>
 
@@ -68,7 +62,10 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 <br/><br/>
 
 ## Day 17 - 2020-12-27
-:bulb: To bad, I realized that my slack account will delete older messages. I also found out that I cannot buy a slack account for me alone if other persons are in the channels to. So Slack wanted to charge me for a month for $17.000. I will have to reconstruct the days from Dec-11 to Dec-26 and my progress from my memory.
+:bulb: To bad, I realized that my slack account will delete older messages. I also found out that I cannot buy a slack account for me alone if other persons are in the channels to. So Slack wanted to charge me for a month for $17.000. I will have to reconstruct the days from Dec-11 to Dec-26 and my progress from my memory.<br/><br/>
+:bulb: I still have no idea how to code dummy variables in Python. <br/><br/>
+:bulb: Thank god, the next example from the udacity lesson is a multi-linear regression, but without nominal data, so I don't need any dummies.<br/>
+https://github.com/jegali/DataScience/blob/main/lesson-3-12-multi-ticket-sample.ipynb
 <br/><br/>
 
 ## Day 16 - 2020-12-26
