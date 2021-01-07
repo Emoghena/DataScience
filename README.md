@@ -74,12 +74,19 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 ## Day 16 - 2020-12-26
 ## Day 15 - 2020-12-25
 ## Day 14 - 2020-12-24
-## Day 13 - 2020-12-23
-erste python beispiele
-git?
-## Day 12 - 2020-12-22
-## Day 11 - 2020-12-21
 
+## Day 13 - 2020-12-23
+:bulb: I tried some basic statistics in Python like word frequency counting and visualizing the results in a bar plot.<br/>
+https://github.com/jegali/DataScience/blob/main/word_frequency.ipynb<br/><br/>
+:bulb: I transferred the math used for linear regression in Python and did a first example of linear regression by hand.<br>
+https://github.com/jegali/DataScience/blob/main/linear_regression.ipynb
+<br/><br/>
+
+## Day 12 - 2020-12-22
+:bulb: I fiddled around with Jupyter notebook and got a deeper understanding of this interactive version of python. I learned about the markdown language I can use in the notebooks and did some steps with numpy, scipy, matplotlib and sympy.
+<br/><br/>
+
+## Day 11 - 2020-12-21
 :bulb: I have no alteryx license for my work laptop and will definetely not install software that has not been approved by our CIO. I found out that Python is allowed, so that was another important decision for my to switch from alteryx to python. I installed miniconda, since anaconda needs a paid license, which I do not have. I did some research on the packets installed with anaconda and decided to do my own "data sciene package". Here is what I did. First I downloaded miniconda and then I did some install on a console window:
 
 ```bash
