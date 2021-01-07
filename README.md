@@ -74,11 +74,14 @@ https://github.com/jegali/DataScience/blob/main/Lesson-3-22/Lesson-3-22.ipynb<br
 ## Day 16 - 2020-12-26
 ## Day 15 - 2020-12-25
 ## Day 14 - 2020-12-24
+:bulb: It's beginning to look a lot like christmas! I extended the linear regression tutorial by a second part and did the math for correlation coefficient and coefficient of determination on my own. have a look at the resukts here:<br/>
+https://github.com/jegali/DataScience/blob/main/linear_regression_2.ipynb
+<br/><br/>
 
 ## Day 13 - 2020-12-23
 :bulb: I tried some basic statistics in Python like word frequency counting and visualizing the results in a bar plot.<br/>
 https://github.com/jegali/DataScience/blob/main/word_frequency.ipynb<br/><br/>
-:bulb: I transferred the math used for linear regression in Python and did a first example of linear regression by hand.<br>
+:bulb: I transferred the math used for linear regression in Python and did a first example of linear regression by hand. I wrote a short tutorial you can find here:<br>
 https://github.com/jegali/DataScience/blob/main/linear_regression.ipynb
 <br/><br/>
 
