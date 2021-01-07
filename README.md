@@ -7,8 +7,8 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
 ## Day 28 - 2021-01-07
-:bulb: I was inspired by the work of a fellow and decided to restructure my git similarly. I added a diary but had a problem: I forgot that slack does not let us access older posts, so I will have to do some diary entries from my memory. I hope it fits with the older slack entries. Shit happens. Yesterday I started the diary, now it is up to date.
-<br/><br/>
+:bulb: I was inspired by the work of a fellow and decided to restructure my git similarly. I added a diary but had a problem: I forgot that slack does not let us access older posts, so I will have to do some diary entries from my memory. I hope it fits with the older slack entries. Shit happens. Yesterday I started the diary, now it is up to date.<br/><br/>
+:bulb: Today I started the "to p or not to p" course on coursera.<br/><br/>
 
 ## Day 27 - 2021-01-06
 :bulb: I did the project again with the same result. To rule out errors, I did the project again with sklearn and got the same result.
