@@ -6,6 +6,13 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
+## Day 30 - 2021-01-09
+:bulb: Could not learn that much today. One of our pets died. Nevertheless, I learned something about Samples and sampling.<br/><br/>
+:bulb: I'm still attending the "to p or not to p" course on coursera.<br/><br/>
+
+## Day 29 - 2021-01-08
+:bulb: Did progress on the coursera statistics course. Now I have to wait until my assignment has been evaluated.<br/><br/>
+
 ## Day 28 - 2021-01-07
 :bulb: I was inspired by the work of a fellow and decided to restructure my git similarly. I added a diary but had a problem: I forgot that slack does not let us access older posts, so I will have to do some diary entries from my memory. I hope it fits with the older slack entries. Shit happens. Yesterday I started the diary, now it is up to date.<br/><br/>
 :bulb: Today I started the "to p or not to p" course on coursera.<br/><br/>
