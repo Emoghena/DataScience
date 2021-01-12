@@ -6,6 +6,12 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
+## Day 32 - 2021-01-11
+:bulb: Revisited and recapitulated hypothesis testing. It is much clearer now.<br/><br/>
+
+## Day 31 - 2021-01-10
+:bulb: Struggling with hypothesis testing today. Interesting, but very dry.<br/><br/>
+
 ## Day 30 - 2021-01-09
 :bulb: Could not learn that much today. One of our pets died. Nevertheless, I learned something about Samples and sampling.<br/><br/>
 :bulb: I'm still attending the "to p or not to p" course on coursera.<br/><br/>
