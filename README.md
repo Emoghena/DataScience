@@ -8,7 +8,10 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ## Day 34 - 2021-01-13
 :bulb: I did it! Submitted my project report for lesson 5. I will post it here as well - maybe you want to have a look at it. It contains an alteryx and python solution as well: <br/>
-[The Predicting Catalog Demand Report](https://github.com/jegali/DataScience/blob/main/Lesson-5/P1%20-%20Predicting%20Catalog%20Demand%20-%20Jens%20Gaulke.pdf)<br/>
+[The Predicting Catalog Demand Report](https://github.com/jegali/DataScience/blob/main/Lesson-5/P1%20-%20Predicting%20Catalog%20Demand%20-%20Jens%20Gaulke.pdf)<br/><br/>
+:bulb: I also put the [alteryx project](https://github.com/jegali/DataScience/blob/main/Lesson-5/Predicting%20catalog.yxmd) in my git<br/><br/>
+:bulb: Since I did the project with Python also, I also added the [jupyter notebook](https://github.com/jegali/DataScience/blob/main/Lesson-5/catalog-demand.ipynb) 
+<br/><br/>
 
 ## Day 33 - 2021-01-12
 :bulb: I'm writing the report for the lesson 5 project. Had to reactivate alteryx for some screenshots. I want to include my python jupyter notebook in the report so I think I need some more time. I think I can publish it tomorrow.<br/><br/>
