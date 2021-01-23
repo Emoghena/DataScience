@@ -8,7 +8,7 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ## Day 35 - 2021-01-14
 :bulb: I completed my statistics course<br/>
-![LT pnotp](/images/CERTIFICATE_p.jpg)
+![LT pnotp](/images/CERTIFICATE_p.jpeg)
 
 ## Day 34 - 2021-01-13
 :bulb: I did it! Submitted my project report for lesson 5. I will post it here as well - maybe you want to have a look at it. It contains an alteryx and python solution as well: [The Predicting Catalog Demand Report](https://github.com/jegali/DataScience/blob/main/Lesson-5/P1%20-%20Predicting%20Catalog%20Demand%20-%20Jens%20Gaulke.pdf)<br/><br/>
