@@ -6,8 +6,42 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
+## Day 44 - 2021-01-23
+:bulb: Study Jam!
+<br/><br/>
+
+## Day 43 - 2021-01-22
+:bulb: I managed to deploy Django to an Apache2 webserver on a raspberry installation. It worked locally but always showed the standard config page when I accessed it from another device. Searched the whole evening yesterday for the error. I'm still not sure what the reason is/was: a misleading browser cache or an error in the apache config. I disabled the standard page this morning and it worked. I then took care of the DNS redirection and voila - the standard Django page is on the Internet at www.aurorafox.de. Now I will rewrite the application. Troubleshooting is very timeconsuming... In order not to run into this trap again, I have documented the processes in step-by-step instructions <br/><br/>
+
+## Day 42 - 2021-01-21
+:bulb: I continued fiddling with Django and Python. Got a simple Bootstrap page working and installed it on a raspberry. Now I try to put that all inside a apache webserver and redirect the device to one of my domains. My copy of "How charts lie" has been delivered. Something to read for the weekend. 
+<br/><br/>
+
+## Day 41 - 2021-01-20
+:bulb: As Monty Python would say: "And now to something totally different"... Today, I stumbled upon Django and developed my first Python/Django Webapp. I the near future want to rewrite my android AuroraFox (Northern Light prediction and forecast) app into a Python/Django webapp to reach more users and to deepen my Python knowledge. So many things to do and so little time....<br/><br/>
+
+## Day 40 - 2021-01-19
+:bulb: I made it through lesson 2 of Udacity's tableau course https://classroom.udacity.com/courses/ud1006
+<br/><br/>
+
+## Day 39 - 2021-01-18
+:bulb: I repeated Bayes theorem and discrete probability
+<br/><br/>
+
+## Day 38 - 2021-01-17
+:bulb: I wrote a network worm in Python today for my teaching platform. Python is really great
+<br/><br/>
+
+## Day 37 - 2021-01-16
+:bulb: Learning about visualization today. Some of the statistics basics were repeated in the course, leaving the quizzes as a no-brainer.
+<br/><br/>
+
+## Day 36 - 2021-01-15
+:bulb:  I finished the book "Head First Statistics" and will now start with some lectures on visualization. 
+<br/><br/>
+
 ## Day 35 - 2021-01-14
-:bulb: I completed my statistics course<br/>
+:bulb: I completed my statistics course<br/><br/>
 ![LT pnotp](/images/CERTIFICATE_p.jpeg)
 
 ## Day 34 - 2021-01-13
