@@ -6,8 +6,33 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
+## Day 57 - 2021-02-05
+:bulb: Repeated combinatorics and read about Django REST APIs.
+<br/><br/>
+
+## Day 56 - 2021-02-04
+:bulb: Today I learned more about highcharts and all the options the different diagrams have. I also implemented a dark/light theme for highcharts. In the evening I tried to make the highcharts dynamic and loaded realtime data from the web, parsed it and put it in a chart. It works on my local machine and suddenly - boom - it did not show up longer on my webserver. I looked at the code but found no error. It took two episodes of GoT... Guess what? No program error. No coding mistake. Apache choked. After a restart it works again. Remember: it's not always your fault...
+<br/><br/>
+
 ## Day 55 - 2021-02-03
 :bulb: I found the misconfiguration and started a new install of my webapp. It already has dark/light mode, responsiveness - it works on Desktop, iPhone and Huawei P40 pro, and the first chart which reads the planetary k-index and displays as a bar chart. The service is up - only in german at the moment, but localisation is the next topic - and can be found at www.aurorafox.de. Yeay!
+<br/><br/>
+
+## Day 54 - 2021-02-02
+:bulb: I created the legal pages for my webapp, then I tried to copy the files from my local django installation to my webserver. This seems to be not so straightforward and destroyed the webserver. I will try again tomorrow... it was a long day with a lot of work.
+<br/><br/>
+
+## Day 53 - 2021-02-01
+:bulb: Started a data scuence bootcamp in python at udemy. Making good progress so far.
+<br/><br/>
+
+## Day 52 - 2021-01-31
+:bulb: I managed to get a static barchart (chart.js) in my django/html page. After that I searched for some information to feed it with data fron the web and found an excellent video at youtube. This guy shows how to make a covid-19 (this word makes me aggressive...) dashboard with chart.js and highcharts.com. He uses a jupyter notebook for fiddling and testing and then put the code in his django website. Great! Have a look at it https://www.youtube.com/watch?v=yRjteiImIWw
+:bulb: Part two of my work: I managed to download KP-Data from Space Weather Prediction Center, parsed it and put it in a dynamically created chart. Very satisfying to see what can be done with 12 lines of python code.
+<br/><br/>
+
+## Day 51 - 2021-01-30
+:bulb: I added dark/light theme switching for my Django webapp and created custom visualization components in bootstrap. CSS is still a miracle, but it is getting better every day. Now trying to query XLS/SQL to get data for my charts in python.
 <br/><br/>
 
 ## Day 44 - 2021-01-23
