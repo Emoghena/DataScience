@@ -23,16 +23,21 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 <br/><br/>
 
 ## Day 53 - 2021-02-01
-:bulb: Started a data scuence bootcamp in python at udemy. Making good progress so far.
+:bulb: Started a data science bootcamp in python at udemy. Making good progress so far.<br/>
+:bulb: I learned how to create charts with highcharts which I consider superior to chart.js. And it is free for personal use. I looked up covid data and tried to re-create a dashboard with different charts from sites like worldometer and who.
 <br/><br/>
 
 ## Day 52 - 2021-01-31
-:bulb: I managed to get a static barchart (chart.js) in my django/html page. After that I searched for some information to feed it with data fron the web and found an excellent video at youtube. This guy shows how to make a covid-19 (this word makes me aggressive...) dashboard with chart.js and highcharts.com. He uses a jupyter notebook for fiddling and testing and then put the code in his django website. Great! Have a look at it https://www.youtube.com/watch?v=yRjteiImIWw
+:bulb: I managed to get a static barchart (chart.js) in my django/html page. After that I searched for some information to feed it with data fron the web and found an excellent video at youtube. This guy shows how to make a covid-19 (this word makes me aggressive...) dashboard with chart.js and highcharts.com. He uses a jupyter notebook for fiddling and testing and then put the code in his django website. Great! Have a look at it https://www.youtube.com/watch?v=yRjteiImIWw <br/>
 :bulb: Part two of my work: I managed to download KP-Data from Space Weather Prediction Center, parsed it and put it in a dynamically created chart. Very satisfying to see what can be done with 12 lines of python code.
 <br/><br/>
 
 ## Day 51 - 2021-01-30
 :bulb: I added dark/light theme switching for my Django webapp and created custom visualization components in bootstrap. CSS is still a miracle, but it is getting better every day. Now trying to query XLS/SQL to get data for my charts in python.
+<br/><br/>
+
+## Day 50 - 2021-01-29
+:bulb: Whenever you think you can get started now, something new will get in your way. After I refreshed my CSS knowlegde to make my dashboard responsive, I wanted to change some variables globally and stumbled upon SASS / SCSS. So again... back to the drawingboard like Coyote would probably say...
 <br/><br/>
 
 ## Day 44 - 2021-01-23
