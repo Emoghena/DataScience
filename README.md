@@ -6,6 +6,10 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
+## Day 55 - 2021-02-03
+:bulb: I found the misconfiguration and started a new install of my webapp. It already has dark/light mode, responsiveness - it works on Desktop, iPhone and Huawei P40 pro, and the first chart which reads the planetary k-index and displays as a bar chart. The service is up - only in german at the moment, but localisation is the next topic - and can be found at www.aurorafox.de. Yeay!
+<br/><br/>
+
 ## Day 44 - 2021-01-23
 :bulb: Study Jam!
 <br/><br/>
