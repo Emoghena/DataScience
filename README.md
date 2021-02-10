@@ -6,6 +6,28 @@ What can I say: When udacity asked us to take the pledge to study for 30 minutes
 
 ![LT Scholarship Badge](/images/Bertelsmann+Badge+Phase+1_12.1.2020.jpg)
 
+## Day 62 - 2021-02-10
+:bulb: Completed my statistics course at udemy.
+![LT pnotp](/images/UC-aea20095-d5c2-48f2-8d47-e20342940b42.jpg)
+<br/><br/>
+
+## Day 61 - 2021-02-09
+:bulb: Attended my statistics course at udemy.
+<br/><br/>
+
+## Day 60 - 2021-02-08
+:bulb: Attended my statistics course at udemy.<br/>
+:bulb: Provided 6 visualization books for my mates.<br/><br/>
+<br/><br/>
+
+## Day 59 - 2021-02-07
+:bulb: I did more exercises on combinatorics and Bayes.
+<br/><br/>
+
+## Day 58 - 2021-02-06
+:bulb: I did exercises on combinatorics. Sometimes it is like nailing jelly to the wall.
+<br/><br/>
+
 ## Day 57 - 2021-02-05
 :bulb: Repeated combinatorics and read about Django REST APIs.
 <br/><br/>
